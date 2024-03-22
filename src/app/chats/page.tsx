@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 
 export default function ChatPage() {
+console.log("hello")
   return (
     <div className="flex w-full">
       <div className="flex flex-col justify-between border-solid border-0 border-r p-4">
